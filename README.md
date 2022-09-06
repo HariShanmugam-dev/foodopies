@@ -1,3 +1,7 @@
+#Foodopies
+
+This is a react site which allows you to search for different recipes and its instructions.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
