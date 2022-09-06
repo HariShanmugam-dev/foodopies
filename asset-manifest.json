@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foodopies/static/css/main.22306ea2.css",
+    "main.js": "/foodopies/static/js/main.8aec7fa8.js",
+    "index.html": "/foodopies/index.html",
+    "main.22306ea2.css.map": "/foodopies/static/css/main.22306ea2.css.map",
+    "main.8aec7fa8.js.map": "/foodopies/static/js/main.8aec7fa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22306ea2.css",
+    "static/js/main.8aec7fa8.js"
+  ]
+}
