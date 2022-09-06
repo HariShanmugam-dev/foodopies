@@ -1,4 +1,4 @@
-#Foodopies
+# Foodopies
 
 This is a react site which allows you to search for different recipes and its instructions.
 
