@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/foodopies/static/css/main.22306ea2.css",
-    "main.js": "/foodopies/static/js/main.8aec7fa8.js",
+    "main.css": "/foodopies/static/css/main.8a90cae1.css",
+    "main.js": "/foodopies/static/js/main.6de4e0a4.js",
     "index.html": "/foodopies/index.html",
-    "main.22306ea2.css.map": "/foodopies/static/css/main.22306ea2.css.map",
-    "main.8aec7fa8.js.map": "/foodopies/static/js/main.8aec7fa8.js.map"
+    "main.8a90cae1.css.map": "/foodopies/static/css/main.8a90cae1.css.map",
+    "main.6de4e0a4.js.map": "/foodopies/static/js/main.6de4e0a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.22306ea2.css",
-    "static/js/main.8aec7fa8.js"
+    "static/css/main.8a90cae1.css",
+    "static/js/main.6de4e0a4.js"
   ]
 }
